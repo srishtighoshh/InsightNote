@@ -28,8 +28,8 @@ InsightNote takes a large text input (manual text or PDF) and provides:
 
 ## 📂 Project Structure
 InsightNote/
-├── README.md
 ├── PROJECT REPORT.pdf
+├── README.md 
 └── aimlproject.py
 
 ## ⚙️ Setup Instructions
@@ -109,4 +109,3 @@ Srishti 25BAI10321
 ## ⭐ Acknowledgement
 This project was developed as part of a BYOP (Bring Your Own Project) activity to apply programming and problem-solving skills to a real-world scenario.
 
-## 📂 Project Structure
