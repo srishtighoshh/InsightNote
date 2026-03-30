@@ -1,5 +1,6 @@
 # 📚 InsightNote: Smart Academic Text Analyzer
-
+## 💡 Problem Solved
+Students often struggle to revise large notes quickly. InsightNote helps by converting long text into concise summaries with key insights.
 ## 🚀 Overview
 InsightNote is a Python-based Natural Language Processing (NLP) tool designed to help students quickly analyze and summarize large amounts of text. It reduces study time by generating concise summaries, extracting key insights, and providing additional analysis like sentiment and reading time.
 
